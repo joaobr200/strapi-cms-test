@@ -1,0 +1,12 @@
+{
+  "kind": "singleType",
+  "collectionName": "pictures",
+  "info": {
+    "name": "pictures"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {}
+}
